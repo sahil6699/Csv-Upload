@@ -28,6 +28,10 @@ git clone https://github.com/sahil6699/Csv-Upload.git
 - Secure to any empty file uploads
 - Can handle displaying files with different number of headers.
 
+### Deployment
+
+-The project is deployed [here](https://csv-upload-parse.herokuapp.com/)
+
 ## Authors
 
 - [@sahil6699](https://github.com/sahil6699)
