@@ -13,7 +13,7 @@
 
 ```
 bash
-https://github.com/sahil6699/Csv-Upload.git
+git clone https://github.com/sahil6699/Csv-Upload.git
 ```
 
 - After forking and cloning this repository to your local machine, open the project folder in your favorite code editor
